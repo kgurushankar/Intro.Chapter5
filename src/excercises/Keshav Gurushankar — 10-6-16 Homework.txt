@@ -1,0 +1,28 @@
+Keshav Gurushankar Per. 8 — 10/6/16
+Pages 118-119 (3, 4, 6, 7, 10)
+	
+3.	a. public, void, class, int, extends, implements, import, private, if, else, super, new, true, false, static, this,
+	b. 	Packages: 	java.awt, java.awt.event, javax.swing, 
+		Classes: 	Timer, JFrame, Container, MovingDisk
+		Methods:	setSize, setDefaultCloseOperation, add, setBackground, 
+		Constants:	Math.PI, Color.BLACK, Color.CYAN, 
+	c. 	time, clock, x, y, r, sky, w, c, g, e, args, MovingDisk
+
+4. 	a.	style+
+	c.	syntax
+	d.	style
+	e.	style
+	f.	style
+	g.	style
+	
+6.	It will not run. The compiler will not be able to identify the main method because it is case-sensitive
+
+7.	Parentheses are syntax
+	Braces are a matter of style
+
+10. a.	false 	— they are recognized through braces
+	b.	false 	— some lines do not need a semicolon and some commands can span multiple lines
+	c.	false 	— the compiler only sees a new command on the ";"
+	d.	true 	— the compiler ignores spaces unless they are within quotes (")
+	e.	true 	— the compiler looks for definitions then looks for methods 
+				  the compiler reorganizes the code when it creates the executable
